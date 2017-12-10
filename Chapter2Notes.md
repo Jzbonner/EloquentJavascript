@@ -12,7 +12,7 @@ Taking a look at the overall form of a program through its individual components
 (Dictionary of Computing, 2004)
 
 ### Expressions and Statements 
-A fragment of code that produces a value is called an expression. Expressions can nest in a very similar way to the subsenteces in human languages are nested. If an expression corresponds to a sentence fragment, a Javascript statement corresponds to a full sentence in a human language. A program is a list of statements. The simplest kind of statement is an expression with a semicolon after it. 
+A fragment of code that produces a value is called an expression. Expressions can nest in a very similar way to the sub-sentences in human languages are nested. If an expression corresponds to a sentence fragment, a Javascript statement corresponds to a full sentence in a human language. A program is a list of statements. The simplest kind of statement is an expression with a semicolon after it. 
 
 ### Variables
 To catch and hold values, Javascript provides a thing called variables. Typically,the special keyword (var) indicates that a proceeding statement is going to define a variable. After a variable has been defined its name can be used as an expression. **Variables names can be any word that isn't a reserved word; they may not include spaces; digits cannot start the name of a variable; the name cannot include punctuation** 
