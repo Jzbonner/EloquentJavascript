@@ -45,8 +45,10 @@ Duck typing inherently make things more abstract. Concrete code is easy to under
 Always implement the parent-child class relationship with Object Oriented Programming. An accurately defined subclass should have the attributes of its parents class. In software engineering, the template method pattern is a behavioral design pattern that defines the program skeleton of an algorithm in an operation, deferring some steps to subclasses. This methodology lets developers redefine certain steps of an algorithm without changing the algorithm's structure. 
 * In real world application the template method pattern is used to when two or more implementations of a similar algorithm exist. In the real world templates are used all the time: for architectural plans, and throughout the engineering domain 
 * A template plan may be defined by which is then built on with further variations 
-* * For example, a basic house plan can have many variations such as adding an extension or using a different heating system 
+  * For example, a basic house plan can have many variations such as adding an extension or using a different heating system 
 
 Subclasses can be decoupled and less error-prone if we use hook messages. Hook methods are ones containing a default implementation that may be overridden in some classes. Hook methods are intended to be overridden, concrete methods are not. 
 
 ## Chapter 7 - Share Roles Through Modules 
+
+## Chapter 8 - Composition 
