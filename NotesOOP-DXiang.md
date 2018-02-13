@@ -23,3 +23,30 @@ Classes in applications should focus on and be defined by their behavior not nec
 Object Oriented Programming allows developers to focus on the larger aspects of the Software Development Life Cycle. Cost Analysis (current cost vs. future expense) and Time Management are just two areas where OOP can allow you to find the balance between pre-optimization and over-design. 
 
 ## Chapter 3 - Managing Dependencies
+Emphasize the decoupling of your classes. You don't want your classes needing a lot of explicit information in order to function. You can create a standard for loosely coupled classes by utilizing dependency injection. 
+* In software engineering, dependency injection is a technique whereby  one object supplies the dependencies of another object. A dependency is an object that can be used. An injection is the passing of a dependency to a dependent object that would use it
+* If you are unable to remove a dependency, work towards isolating it. Try to reveal dependencies and lower the barrier to refactor 
+* The most hazardous classes are the ones who have a lot of dependencies and are likely to have their requirements changed 
+
+## Chapter 4 - Flexible Interfaces 
+An important aspect of Object Oriented Programming  is the concentration on the messages as opposed to the classes themselves. Many Object Oriented applications in their nature are defined by the messages that flow between their objects. 
+
+Be aware of how you are defining public interfaces. An interface is a programming structure/syntax that allows the computer to enforce certain properties on an object. Utilizing public interfaces allows the programmer to be more abstract when referencing objects. Interfaces require the programmer to create specific functions that are expected in an implementing class when it implements an Interface. 
+
+You can limit the amount of procedural code you write by honoring the public interfaces of other classes, using necessary keywords, and employing the Law of Demeter. 
+* The Law of Demeter is a design guideline for developing software in which the developer limits the amount of long message chaining. Long message chains are often times influenced by objects that you know about as a programmer. Knowing the interface will prompt you to amend message chains together to ger to distant behavior but be sure that these message chains do not become convoluted at long lengths. 
+
+## Chapter 5 - Duck Typing 
+Duck typing means that an operation does not formally specify the requirements that its operands have to meet, but just tries it out with what is given. It doesn't specifically have any particular preference between dynamic type systems or static type systems, however the main emphasis is to use coding practices that focus on what an object can do as oppose to what the object is. 
+
+Duck typing inherently make things more abstract. Concrete code is easy to understand,but hard to extend. Abstract code is more obscure, but once understood it's easier to change and reuse. Real world software application development is dependent on a level of tolerance for abstraction and ambiguity in code. 
+
+## Chapter 6 - Behavior Thought Inheritance
+Always implement the parent-child class relationship with Object Oriented Programming. An accurately defined subclass should have the attributes of its parents class. In software engineering, the template method pattern is a behavioral design pattern that defines the program skeleton of an algorithm in an operation, deferring some steps to subclasses. This methodology lets developers redefine certain steps of an algorithm without changing the algorithm's structure. 
+* In real world application the template method pattern is used to when two or more implementations of a similar algorithm exist. In the real world templates are used all the time: for architectural plans, and throughout the engineering domain 
+* A template plan may be defined by which is then built on with further variations 
+* * For example, a basic house plan can have many variations such as adding an extension or using a different heating system 
+
+Subclasses can be decoupled and less error-prone if we use hook messages. Hook methods are ones containing a default implementation that may be overridden in some classes. Hook methods are intended to be overridden, concrete methods are not. 
+
+## Chapter 7 - Share Roles Through Modules 
