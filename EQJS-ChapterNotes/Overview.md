@@ -27,4 +27,5 @@ Fundamental Notes on the JavaScript Programming Language
 ## Resources 
 [Eloquent Javascript] (http://eloquentjavascript.net/)
 
-
+### Created and Compiled By
+Jarrett Bonner 
