@@ -50,5 +50,53 @@ Always implement the parent-child class relationship with Object Oriented Progra
 Subclasses can be decoupled and less error-prone if we use hook messages. Hook methods are ones containing a default implementation that may be overridden in some classes. Hook methods are intended to be overridden, concrete methods are not. 
 
 ## Chapter 7 - Share Roles Through Modules 
+Modular Programming is a coding method that entails the use of routines, sub routines and functions in order to organize and execute specific sets of instructions pertaining to a given task to be done. Essentially the main idea behind this method is that if a set of instructions, that perform a specific task or calculation, will be called several times, it should be moved to a subroutine (if it does not return a value) or a function (if it does return a value) and called from the needed other parts of the program. 
 
-## Chapter 8 - Composition 
+One of the great advantages of the modular programming approach is that it allows developers to organize code in their own way of thinking. 
+
+Object Oriented Programming is a coding method that entails the use of objects and their relationships in order to describe, programmatically the problem to be solved. The classic definition of OOP was based on three founding pillars: 
+* Encapsulation: This term defines that both the data, and the functionality that could affect or display that data are both included under a unified name (i.e. the object name itself)
+* Inheritance: This allows developers to define objects in a hierarchy. Each level of the hierarchy defines a more specific object than the parent level. Each level inherits all the properties and methods of it's parent object and at that point you define the more specific properties and methods need by the new level of object you created 
+* Polymorphism: Describes a pattern in Object Oriented Programming in which classes have different functionality while sharing a common interface. Polymorphism is used to make applications more modular and extensible. Instead of conditional statements describing different courses of action, you create interchangeable objects that you select based on your needs. Example below: 
+
+```C#
+public abstract class Vehicle {
+    public abstract int Wheels;
+}
+
+public class Bicycle : Vehicle {
+    public override int Wheels() {
+        return 2;
+    }
+}
+
+public class Car : Vehicle {
+    public override int Wheels() {
+        return 4;
+    }
+}
+
+public class Truck : Vehicle {
+    public override int Wheels() {
+        return 18;
+    }
+}
+
+public void Main() {
+    List<Vehicle> vehicles = new List<Vehicle>();
+
+    vehicles.Add(new Bicycle());
+    vehicles.Add(new Car());
+    vehicles.Add(new Truck());
+
+    foreach (Vehicle v in vehicles) {
+        Console.WriteLine(
+            string.Format("A {0} has {1} wheels.",
+                v.GetType().Name, v.Wheels));
+    }
+}
+```
+* Interface: In programming, an interface defines what the behavior an object will have, but it will not actually specify the behavior. An interface generally defines the set of methods that an instance of a class that has that interface could respond to
+* Abstraction: Through the process of abstraction, a programmer hides all but the relevant data about an object in order to reduce complexity and increase efficiency. The object referred to as an abstraction is a named entity made up of selected attributes and behavior specific to a particular usage of the originating entity. 
+
+
