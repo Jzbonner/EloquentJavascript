@@ -88,9 +88,9 @@ _join_ | `.join()` | joins all elements of an array into a string and returns th
 _repeat_ | `.repeat()` | constructs and returns a new string which contains the specified number of copies
 
 The Math Object is used as a container to group a bunch of related functionality. You can learn more about the Math Object from these resources: 
-* [JavaScript Math Object - W3Schools] (https://www.w3schools.com/js/js_math.asp)
-* [Math MDN] (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
-* [JavaScript the Math Object] (https://www.tutorialspoint.com/javascript/javascript_math_object.htm)
+* [JavaScript Math Object - W3Schools](https://www.w3schools.com/js/js_math.asp)
+* [Math MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+* [JavaScript the Math Object](https://www.tutorialspoint.com/javascript/javascript_math_object.htm)
 
 ### JSON 
 A popular serialization format is called _JSON_ (JavaScript Object Notation). JSON is typically used as a data storage and communication format for the web. 
