@@ -2,10 +2,10 @@
 Fundamental Notes on the JavaScript Programming Language
 
 ## Contents 
-1. Values 
-2. Program Structure 
-3. Functions
-4. Data Structures 
+1. Values [:heavy_check_mark:]
+2. Program Structure [:heavy_check_mark:]
+3. Functions [:heavy_check_mark:]
+4. Data Structures [:heavy_check_mark:]
 5. Higher Order Functions
 6. The Secret Life of Objects 
 7. Project: Electronic Life 
