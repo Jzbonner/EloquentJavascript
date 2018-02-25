@@ -6,7 +6,7 @@ Fundamental Notes on the JavaScript Programming Language
 2. Program Structure [:heavy_check_mark:]
 3. Functions [:heavy_check_mark:]
 4. Data Structures [:heavy_check_mark:]
-5. Higher Order Functions
+5. Higher Order Functions [:heavy_check_mark:]
 6. The Secret Life of Objects 
 7. Project: Electronic Life 
 8. Bugs and Error Handling 
