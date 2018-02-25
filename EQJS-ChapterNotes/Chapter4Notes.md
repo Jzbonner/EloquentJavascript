@@ -97,7 +97,7 @@ A popular serialization format is called _JSON_ (JavaScript Object Notation). JS
 
 > JSON looks similar to JavaScript’s way of writing arrays and objects, with a few restrictions. All property names have to be surrounded by double quotes, and only simple data expressions are allowed—no function calls, bindings, or anything that involves actual computation. Comments are not allowed in JSON.
 
-(EloquentJavascript, Ch. 4)
+(_EloquentJavascript_, Ch. 4)
 
 A representation of JSON data is as follows: 
 
