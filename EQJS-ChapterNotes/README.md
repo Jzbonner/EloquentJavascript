@@ -9,8 +9,8 @@ Fundamental Notes on the JavaScript Programming Language
 5. Higher Order Functions [:heavy_check_mark:]
 6. The Secret Life of Objects [:heavy_check_mark:]
 7. Project: Electronic Life [:heavy_check_mark:]
-8. Bugs and Error Handling 
-9. Regular Expressions 
+8. Bugs and Error Handling [:heavy_check_mark:]
+9. Regular Expressions [:heavy_check_mark:]
 10. Modules 
 11. Project: A Programming Language 
 12. Javascript and the Browser 
