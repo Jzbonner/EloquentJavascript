@@ -1,6 +1,8 @@
 # EloquentJavascript
 Fundamental Notes on the JavaScript Programming Language
 
+![Cover](https://github.com/Jzbonner/EloquentJavascript/blob/master/EloqJS-imgs/EloqJS%20Cover.jpg?raw=true)
+
 ## Contents 
 1. Values [:heavy_check_mark:]
 2. Program Structure [:heavy_check_mark:]
