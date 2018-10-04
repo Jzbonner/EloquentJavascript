@@ -1,8 +1,7 @@
 # EloquentJavascript
 Fundamental Notes on the Program Structure of Javascript
 
-## Regular Expressions Cheat Sheet 
-
+### Regular Expressions Cheat Sheet 
 Regular expressions are objects that represent patterns in strings. They use their own language to express these patterns.
 
 * /abc/	A sequence of characters
