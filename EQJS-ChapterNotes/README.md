@@ -14,13 +14,13 @@ Fundamental Notes on the JavaScript Programming Language
 8. [Bugs and Error Handling](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter8Notes.md) [:heavy_check_mark:]
 9. [Regular Expressions](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter9Notes.md) [:heavy_check_mark:]
 10. [Modules](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter10Notes.md) [:heavy_check_mark:]
-11. Asynchronous Programming 
+11. [Asynchronous Programming](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter11Notes.md) [:heavy_check_mark:] 
 12. Project: A Programming Language [:heavy_check_mark:]
 13. [Javascript and the Browser](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter13Notes.md) [:heavy_check_mark:]
 14. [The Document Object Model](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter13Notes.md) [:heavy_check_mark:]
 15. [Handling Events](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter13Notes.md) [:heavy_check_mark:]
 16. Project: A Platform Game [:heavy_check_mark:]
-17. [Drawing on Canvas](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter17Notes.md) 
+17. [Drawing on Canvas](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter17Notes.md) [:heavy_check_mark:] 
 18. HTTP Forms and Form Fields 
 19. Project: A Paint Program 
 20. Node.js
