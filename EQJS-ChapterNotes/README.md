@@ -17,8 +17,8 @@ Fundamental Notes on the JavaScript Programming Language
 11. [Asynchronous Programming](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter11Notes.md) [:heavy_check_mark:] 
 12. Project: A Programming Language [:heavy_check_mark:]
 13. [Javascript and the Browser](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter13Notes.md) [:heavy_check_mark:]
-14. [The Document Object Model](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter13Notes.md) [:heavy_check_mark:]
-15. [Handling Events](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter13Notes.md) [:heavy_check_mark:]
+14. [The Document Object Model](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter14Notes.md) [:heavy_check_mark:]
+15. [Handling Events](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter15Notes.md) [:heavy_check_mark:]
 16. Project: A Platform Game [:heavy_check_mark:]
 17. [Drawing on Canvas](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter17Notes.md) [:heavy_check_mark:] 
 18. HTTP Forms and Form Fields 
