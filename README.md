@@ -7,4 +7,4 @@ Fundamental Notes on the JavaScript Programming Language and Supplemental Inform
 Please refer to the README.md files in each of the respective folders. 
 
 ## Resources 
-[Eloquent Javascript] (http://eloquentjavascript.net/)
+[Eloquent Javascript](http://eloquentjavascript.net/)
