@@ -21,13 +21,10 @@ Fundamental Notes on the JavaScript Programming Language
 15. [Handling Events](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter15Notes.md) [:heavy_check_mark:]
 16. Project: A Platform Game [:heavy_check_mark:]
 17. [Drawing on Canvas](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter17Notes.md) [:heavy_check_mark:] 
-18. HTTP Forms and Form Fields 
-19. Project: A Paint Program 
-20. Node.js
-21. Project: A Skill-Sharing Website 
+18. [HTTP Forms and Form Fields](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter18Notes.md) [:heavy_check_mark:]
+19. Project: A Paint Program [:heavy_check_mark:]
+20. [Node.js](https://github.com/Jzbonner/EloquentJavascript/blob/master/EQJS-ChapterNotes/Chapter20Notes.md) [:heavy_check_mark:]
+21. Project: A Skill-Sharing Website [:heavy_check_mark:]
 
 ## Resources 
-[Eloquent Javascript](http://eloquentjavascript.net/)
-
-### Created and Compiled By
-Jarrett Bonner 
+* [Eloquent Javascript](http://eloquentjavascript.net/) 📑
